@@ -140,6 +140,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="SubSystems.vi" Type="VI" URL="../SubSystems.vi"/>
+		<Item Name="Untitled 1.vi" Type="VI" URL="../../../Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
