@@ -1,7 +1,6 @@
 [My Computer]
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 My Computer = "127.0.0.1"
 =======
 My Computer = "172.31.98.236"
@@ -9,9 +8,6 @@ My Computer = "172.31.98.236"
 =======
 My Computer = "172.31.98.236"
 >>>>>>> 673cc505602cab5e40573946669d318fefd83540
-=======
-My Computer = "10.11.59.67"
->>>>>>> parent of 0b790ea... i dont know
 
 [Target]
 Target = "roboRIO-1159-FRC.local"
