@@ -135,9 +135,6 @@ AddOutputFilter chunkFilter
 		<Item Name="Climber" Type="Folder" URL="../Climber">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Hook Arm" Type="Folder" URL="../Hook Arm">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
@@ -643,6 +640,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Build Specifications" Type="Build">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<Item Name="2018FRCStartup2" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 =======
 			<Item Name="SkirmishDay2" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -650,6 +648,9 @@ AddOutputFilter chunkFilter
 =======
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 >>>>>>> parent of bec52f0... Build
+=======
+			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+>>>>>>> parent of 0b790ea... i dont know
 				<Property Name="App_INI_aliasGUID" Type="Str">{A2D97BCD-91B8-424D-9FDF-46F1C6C547B8}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{080D630A-6631-496C-A727-17655C100690}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
@@ -659,6 +660,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_buildSpecDescription" Type="Str">Build Robot Main.vi into an EXE that will run at startup on the roboRIO</Property>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<Property Name="Bld_buildSpecName" Type="Str">2018FRCStartup2</Property>
 =======
 				<Property Name="Bld_buildSpecName" Type="Str">SkirmishDay2</Property>
@@ -666,21 +668,26 @@ AddOutputFilter chunkFilter
 =======
 				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
 >>>>>>> parent of bec52f0... Build
+=======
+				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
+>>>>>>> parent of 0b790ea... i dont know
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/GitHub/PowerUp2018-Labview/Builds</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2136F65-FD06-4AC9-A317-10E44B9EF7A4}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Skirmishstartup.rtexe</Property>
-				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/Skirmishstartup.rtexe</Property>
+				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
+				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 				<Property Name="Source[0].itemID" Type="Str">{A8D00AE7-1ECE-485F-802B-1FF9C00522BF}</Property>
@@ -690,6 +697,9 @@ AddOutputFilter chunkFilter
 =======
 				<Property Name="Source[0].itemID" Type="Str">{7B25E36C-8549-4753-BEFF-77A17E61F6FB}</Property>
 >>>>>>> parent of bec52f0... Build
+=======
+				<Property Name="Source[0].itemID" Type="Str">{3C9ED5C2-5FCB-4CC8-8ADE-90147AE0C973}</Property>
+>>>>>>> parent of 0b790ea... i dont know
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Target/Robot Main.vi</Property>
@@ -697,6 +707,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 				<Property Name="TgtF_fileDescription" Type="Str">2018FRCStartup2</Property>
@@ -843,8 +854,14 @@ AddOutputFilter chunkFilter
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2018 </Property>
 				<Property Name="TgtF_productName" Type="Str">2018scrimmage2.2</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{A1F3DA48-0254-49F3-94C5-B302415ACD1C}</Property>
+=======
+				<Property Name="TgtF_fileDescription" Type="Str">FRC Robot Boot-up Deployment</Property>
+				<Property Name="TgtF_internalName" Type="Str">FRC Robot Boot-up Deployment</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2013 NI</Property>
+				<Property Name="TgtF_productName" Type="Str">FRC Robot Boot-up Deployment</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{B0F0D109-BC56-4F69-B33E-7E219BE9C215}</Property>
+>>>>>>> parent of 0b790ea... i dont know
 				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
-				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 <<<<<<< HEAD
 >>>>>>> db46ab67598016dfedd06ed33ef07dfa3e600248
