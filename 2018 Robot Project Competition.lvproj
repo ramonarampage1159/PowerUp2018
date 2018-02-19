@@ -641,6 +641,7 @@ AddOutputFilter chunkFilter
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<Item Name="2018FRCStartup2" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 =======
 			<Item Name="SkirmishDay2" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -651,6 +652,9 @@ AddOutputFilter chunkFilter
 =======
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 >>>>>>> parent of 0b790ea... i dont know
+=======
+			<Item Name="2018FRCStartup2" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+>>>>>>> parent of c4d368e... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
 				<Property Name="App_INI_aliasGUID" Type="Str">{A2D97BCD-91B8-424D-9FDF-46F1C6C547B8}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{080D630A-6631-496C-A727-17655C100690}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
@@ -658,6 +662,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{6BC1E157-A392-44E8-8AE4-9903655151A6}</Property>
 				<Property Name="Bld_buildSpecDescription" Type="Str">Build Robot Main.vi into an EXE that will run at startup on the roboRIO</Property>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -671,6 +676,9 @@ AddOutputFilter chunkFilter
 =======
 				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
 >>>>>>> parent of 0b790ea... i dont know
+=======
+				<Property Name="Bld_buildSpecName" Type="Str">2018FRCStartup2</Property>
+>>>>>>> parent of c4d368e... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/GitHub/PowerUp2018-Labview/Builds</Property>
@@ -690,6 +698,7 @@ AddOutputFilter chunkFilter
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<Property Name="Source[0].itemID" Type="Str">{A8D00AE7-1ECE-485F-802B-1FF9C00522BF}</Property>
 =======
 				<Property Name="Source[0].itemID" Type="Str">{001C33E9-634C-4E37-B6A8-0A3F2A8505A3}</Property>
@@ -700,6 +709,9 @@ AddOutputFilter chunkFilter
 =======
 				<Property Name="Source[0].itemID" Type="Str">{3C9ED5C2-5FCB-4CC8-8ADE-90147AE0C973}</Property>
 >>>>>>> parent of 0b790ea... i dont know
+=======
+				<Property Name="Source[0].itemID" Type="Str">{A8D00AE7-1ECE-485F-802B-1FF9C00522BF}</Property>
+>>>>>>> parent of c4d368e... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Target/Robot Main.vi</Property>
@@ -710,10 +722,14 @@ AddOutputFilter chunkFilter
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of c4d368e... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
 				<Property Name="TgtF_fileDescription" Type="Str">2018FRCStartup2</Property>
 				<Property Name="TgtF_internalName" Type="Str">2018FRCStartup2</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2013 NI</Property>
 				<Property Name="TgtF_productName" Type="Str">2018FRCStartup2</Property>
+<<<<<<< HEAD
 =======
 				<Property Name="TgtF_fileDescription" Type="Str">SkirmishDay2</Property>
 				<Property Name="TgtF_internalName" Type="Str">SkirmishDay2</Property>
@@ -909,6 +925,11 @@ AddOutputFilter chunkFilter
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 >>>>>>> parent of bec52f0... Build
+=======
+				<Property Name="TgtF_targetfileGUID" Type="Str">{B0F0D109-BC56-4F69-B33E-7E219BE9C215}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
+			</Item>
+>>>>>>> parent of c4d368e... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
 		</Item>
 	</Item>
 </Project>

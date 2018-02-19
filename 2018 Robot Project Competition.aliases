@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 My Computer = "10.11.59.87"
 =======
 <<<<<<< HEAD
@@ -26,6 +27,9 @@ My Computer = "10.11.59.67"
 >>>>>>> parent of 0b790ea... i dont know
 =======
 >>>>>>> parent of db46ab6... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
+=======
+My Computer = "10.11.59.87"
+>>>>>>> parent of c4d368e... Merge branch 'master' of https://github.com/ramonarampage1159/PowerUp2018-Labview
 
 [Target]
 Target = "roboRIO-1159-FRC.local"
