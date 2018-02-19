@@ -1,7 +1,10 @@
 [ProjectWindow_Data]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ProjectExplorer.ClassicPosition[String] = "193,301,592,732"
 =======
+=======
+>>>>>>> 673cc505602cab5e40573946669d318fefd83540
 ProjectExplorer.ClassicPosition[String] = "94,497,573,871"
 
 [AB_Cache_{F2E457E1-A259-456B-BEBA-1F3AB02A1BBB}]
@@ -35,5 +38,8 @@ Cache_Path[Path] Line0002 = "83CDF-5211-441F-B9F8-E360B175EAB8}.txt"
 [AB_Cache_{B5DE50EE-CF3F-469C-B536-D13D1E09BA21}]
 Cache_Path[Path] Line0001 = "/C/Users/robotics/AppData/Local/Temp/AB_Cache_{B5D"
 Cache_Path[Path] Line0002 = "E50EE-CF3F-469C-B536-D13D1E09BA21}.txt"
+<<<<<<< HEAD
+>>>>>>> 673cc505602cab5e40573946669d318fefd83540
+=======
 >>>>>>> 673cc505602cab5e40573946669d318fefd83540
 
